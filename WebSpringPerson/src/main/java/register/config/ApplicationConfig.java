@@ -10,6 +10,7 @@ import javax.faces.annotation.FacesConfig;
 @ApplicationScoped
 public class ApplicationConfig {
 
+
     @Produces
     @ApplicationScoped
     ModelMapper createModelMapper() {

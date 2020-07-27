@@ -41,7 +41,6 @@
             3.4.2.Final
         </rewrite-servlet.version>
 
-
     </properties>
 
     <dependencies>
