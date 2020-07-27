@@ -1,5 +1,6 @@
 #Test task for Full Stack Software Engineer
-#Single page web application with JSF and Hibernate, deployed on TomEE.
+
+Single page web application with JSF and Hibernate, deployed on TomEE.
 ___
 ## Setup
 Tested on and Windows 10
