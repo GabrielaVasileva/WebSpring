@@ -26,7 +26,7 @@ public class PersonRegisterBean {
     public void register() throws IOException {
         service.saveperson(bindingModel);
         ExternalContext context = FacesContext.getCurrentInstance().getExternalContext();
-        context.redirect("/WebSpringPerson_war/");
+        context.redirect("/WebSpringPerson2_war/");
     }
 
     public PersonRegisterBindingModel getBindingModel() {

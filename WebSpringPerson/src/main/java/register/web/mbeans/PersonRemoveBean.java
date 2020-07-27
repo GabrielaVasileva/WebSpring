@@ -23,6 +23,6 @@ public class PersonRemoveBean {
     public void remove(String id) throws IOException {
         service.deleteperson(id);
         ExternalContext context = FacesContext.getCurrentInstance().getExternalContext();
-        context.redirect("/WebSpringPerson_war/");
+        context.redirect("/WebSpringPerson2_war/");
     }
 }
