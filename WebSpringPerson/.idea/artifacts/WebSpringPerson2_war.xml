@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebSpringPerson2:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebSpringPerson2_war</output-path>
+    <root id="archive" name="WebSpringPerson2_war.war">
+      <element id="artifact" artifact-name="WebSpringPerson2:war exploded" />
+    </root>
+  </artifact>
+</component>
